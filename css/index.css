@@ -1,0 +1,37 @@
+* {
+    font-family: 'Indie Flower', cursive;
+}
+
+html, body {
+    height: 100%;
+    width: 100%;
+    padding: 0;
+    margin: 0;
+}
+
+body {
+    display: grid;
+    grid-template-columns: auto;
+    grid-template-rows: 80px 60px auto 30px;
+    grid-template-areas: 
+    "title"
+    "menu"
+    "content";
+}
+
+@media screen and (max-width: 800px) {
+    body {
+        grid-template-rows: 80px 200px auto 30px;
+    }
+}
+
+
+.title { grid-area: title; }
+
+.menu { grid-area: menu; }
+
+.content {
+    grid-area: content;
+    width: 100%;
+    height: 100%;
+}

@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Conheça Coreia</title>
+    <link href="https://fonts.googleapis.com/css?family=Indie+Flower&display=swap" rel="stylesheet"> 
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <link rel="stylesheet" href="css/index.css">
+    <link rel="stylesheet" href="css/menu.css">
+    <link rel="stylesheet" href="css/title.css">
+    <link rel="stylesheet" href="css/sites.css">
+    <link rel="stylesheet" href="css/home.css">
+    <link rel="stylesheet" href="css/about.css">
+</head>
+<body>
+    
+    <div class="title" >Conheça Coreia</div>
+
+    <div class="menu">
+        <i class="fa fa-home"   onclick="toggle_page(1)"> <span>Página Principal</span></i>
+        <i class="fa fa-server" onclick="toggle_page(2)"> <span>Sites da Coreia</span></i>
+        <i class="fa fa-server" onclick="toggle_page(3)"> <span>Revistas da Coreia</span></i>
+        <i class="fa fa-users"  onclick="toggle_page(4)"> <span>Sobre</span></i>
+    </div>
+
+    <div class="content">
+
+        <div class="home">
+            <img src="images/street.jpg" alt="">
+        </div>
+
+        <div class="about">
+            Este site é feito pela comunidade. Para contribuir, acesse: <a href="http://github.com/ConhecaCoreia">github.com/ConhecaCoreia</a>
+            
+            <hr style="width: 50%;">
+
+            Criado por: Thalles Campagnani (thallescampagnani@gmail.com).
+        </div>
+
+        <div class="sites" id="sites">
+            <div class="category2" onclick="toggle_page(5)"> Sites Oficiais</div>
+            <div class="category2" onclick="toggle_page(6)"> Sites da KFA</div>
+            <div class="category2" onclick="toggle_page(7)"> Blogs e Outros Sites</div>
+            <div class="category2" onclick="toggle_page(8)"> Canais do Youtube</div>
+            <div class="category2" onclick="toggle_page(9)"> Sites de Turismo</div>
+        </div>
+
+        <div class="revistas" id="sites">
+            Em construção!
+            <!--
+            <div class="category2" onclick="toggle_page(10)"> Jornal THE PYONGANG TIMES</div>
+            <div class="category2" onclick="toggle_page(11)"> Pictorial RPD-COREIA</div>
+            <div class="category2" onclick="toggle_page(12)"> Revista COREIA HOJE</div>
+            <div class="category2" onclick="toggle_page(13)"> Revista MONTE KUMSU</div>
+            <div class="category2" onclick="toggle_page(14)"> Revista COMÉRCIO EXTERIOR</div>
+            -->
+        </div>
+
+        <div id="sites" class=" sites1" ></div>
+        <div id="sites" class=" sites2" ></div>
+        <div id="sites" class=" sites3" ></div>
+        <div id="sites" class=" sites4" ></div>
+        <div id="sites" class=" sites5" ></div>
+   
+    </div>
+
+    <!--  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script> -->
+    <script src="js/turismo.js"></script>
+    <script src="js/blogs.js"></script>
+    <script src="js/kfa.js"></script>
+    <script src="js/oficial.js"></script>
+    <script src="js/youtube.js"></script>
+    <script src="index.js"></script>
+    
+</body>
+</html>

@@ -1,0 +1,32 @@
+.menu {
+    background-color: rgba(0, 0, 255, 0.5);
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+@media screen and (max-width: 800px) {
+    .menu {
+        flex-direction: column;
+    }
+}
+
+.menu i {
+    font-size: 20px;
+    padding: 8px;
+    border-radius: 3px;
+    background-color: rgb(255, 100, 100);
+    color: white;
+}
+
+.menu i > span {
+    font-family: 'Indie Flower', cursive;
+    font-weight: bold;
+}
+
+.menu i:hover {
+    cursor: pointer;
+    background-color: rgba(0,0,0, 0.7);
+}
