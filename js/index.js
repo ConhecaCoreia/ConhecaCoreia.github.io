@@ -55,38 +55,30 @@ function load_sites(class_name, variavel_sites)
 
 function toggle_page(valor)
 {
-    if (valor == 1) x = "flex"; else x = "none";
-    document.querySelector(".home") .style.display = x;
-
-    if (valor == 2) x = "flex"; else x = "none";
-    document.querySelector(".sites").style.display = x;
-
-    if (valor == 3) x = "flex"; else x = "none";
-    document.querySelector(".revistas").style.display = x;
-
-    if (valor == 4) x = "flex"; else x = "none";
-    document.querySelector(".about").style.display = x;
-
-    if (valor == 5) x = "flex"; else x = "none";
-    document.querySelector(".sites1").style.display = x;
-
-    if (valor == 6) x = "flex"; else x = "none";
-    document.querySelector(".sites2").style.display = x;
-
-    if (valor == 7) x = "flex"; else x = "none";
-    document.querySelector(".sites3").style.display = x;
-
-    if (valor == 8) x = "flex"; else x = "none";
-    document.querySelector(".sites4").style.display = x;
-
-    if (valor == 9) x = "flex"; else x = "none";
-    document.querySelector(".sites5").style.display = x;
-
+    if (valor == 1)  x = "flex"; else x = "none"; document.querySelector(".home") .style.display = x;
+    if (valor == 2)  x = "flex"; else x = "none"; document.querySelector(".sites").style.display = x;
+    if (valor == 3)  x = "flex"; else x = "none"; document.querySelector(".revistas").style.display = x;
+    if (valor == 4)  x = "flex"; else x = "none"; document.querySelector(".about").style.display = x;
+    if (valor == 5)  x = "flex"; else x = "none"; document.querySelector(".sitesOficial").style.display = x;
+    if (valor == 6)  x = "flex"; else x = "none"; document.querySelector(".sitesKfa").style.display = x;
+    if (valor == 7)  x = "flex"; else x = "none"; document.querySelector(".sitesBlogs").style.display = x;
+    if (valor == 8)  x = "flex"; else x = "none"; document.querySelector(".sitesYoutube").style.display = x;
+    if (valor == 9)  x = "flex"; else x = "none"; document.querySelector(".sitesTurismo").style.display = x;
+    if (valor == 10) x = "flex"; else x = "none"; document.querySelector(".revistasTimes").style.display = x;
+    if (valor == 11) x = "flex"; else x = "none"; document.querySelector(".revistasCoreia").style.display = x;
+    if (valor == 12) x = "flex"; else x = "none"; document.querySelector(".revistasHoje").style.display = x;
+    if (valor == 13) x = "flex"; else x = "none"; document.querySelector(".revistasKumsu").style.display = x;
+    if (valor == 14) x = "flex"; else x = "none"; document.querySelector(".revistasComercio").style.display = x;
 }
 
 toggle_page(1)
-load_sites(".sites1", oficial)
-load_sites(".sites2", kfa)
-load_sites(".sites3", blogs)
-load_sites(".sites4", youtube)
-load_sites(".sites5", turismo)
+load_sites(".sitesOficial", oficial)
+load_sites(".sitesKfa", kfa)
+load_sites(".sitesBlogs", blogs)
+load_sites(".sitesYoutube", youtube)
+load_sites(".sitesTurismo", turismo)
+load_sites(".revistasTimes", times)
+load_sites(".revistasCoreia", coreia)
+load_sites(".revistasHoje", hoje)
+load_sites(".revistasKumsu", kumsu)
+load_sites(".revistasComercio", comercio)
