@@ -5,109 +5,110 @@ var oficial =
         "nome": "Portal RPDC ",
         "link": "https://dprkportal.kp",
         "figura": "bandeira.png",
-        "texto": ""
+        "texto": "Portal Oficial de sites da RPD-Coreia"
     },
     {
         "nome": "Livros Coreanos",
         "link": "https://korean-books.com.kp/en",
         "figura": "bandeira.png",
-        "texto": ""
-    },
-    {
-        "nome": "Jornal 'The Pyongyang Times'",
-        "link": "https://pyongyangtimes.com.kp",
-        "figura": "bandeira.png",
-        "texto": ""
-    },
-    {
-        "nome": "Agencia Central de Noticias Coreanas",
-        "link": "https://kcna.kp",
-        "figura": "bandeira.png",
-        "texto": ""
-    },
-    {
-        "nome": "Rodong Sinmun",
-        "link": "https://rodong.rep.kp",
-        "figura": "bandeira.png",
-        "texto": ""
-    },
-    {
-        "nome": "Voice of Korea",
-        "link": "https://vok.rep.kp",
-        "figura": "bandeira.png",
-        "texto": ""
-    },
-    {
-        "nome": "GNU",
-        "link": "https://gnu.rep.kp",
-        "figura": "bandeira.png",
-        "texto": ""
+        "texto": "Site com livros da RPD-Coreia, além de artigos, revistas, pictoriais, etc. (em varios idiomas)."
     },
     {
         "nome": "Media Ryugyong",
         "link": "https://mediaryugyong.com.kp",
         "figura": "bandeira.png",
-        "texto": ""
+        "texto": "Site com fotos e vídeos sobre a RPD-Coreia."
+    },
+    {
+        "nome": "Agencia Central de Noticias Coreanas",
+        "link": "https://kcna.kp",
+        "figura": "bandeira.png",
+        "texto": "Site da agencia de noticias da RPD-Coreia."
+    },
+    {
+        "nome": "Jornal 'The Pyongyang Times'",
+        "link": "https://pyongyangtimes.com.kp",
+        "figura": "bandeira.png",
+        "texto": "Versão online do jornal 'The Pyongyang Times', a versão em língua estrangeira do 'Pyongyang Sinmun', que é um jornal da capital da RPD-Coreia."
+    },
+    {
+        "nome": "Jornal dos Trabalhadores",
+        "link": "https://rodong.rep.kp",
+        "figura": "bandeira.png",
+        "texto": "É a versão online do Jornal dos Trabalhadores (Rodong Sinmun), o jornal oficial do Partido dos Trabalhadores da Coreia."
     },
     {
         "nome": "Naenara",
         "link": "https://naenara.com.kp",
         "figura": "bandeira.png",
-        "texto": ""
+        "texto": "É o portal oficial do Governo da RPD-Coreia."
+    },
+    {
+        "nome": "Voz da Coreia",
+        "link": "https://vok.rep.kp",
+        "figura": "bandeira.png",
+        "texto": "Site da rede de radio 'Voz da Coreia'."
+    },
+    {
+        "nome": "Grande Unidade Nacional - GNU",
+        "link": "https://gnu.rep.kp",
+        "figura": "bandeira.png",
+        "texto": "Site em coreano destinado ao público na Coréia do Sul, Japão e China com foco na unificação da península coreana."
     },
     {
         "nome": "Universidade Kim Il Sung",
         "link": "https://ryongnamsan.edu.kp",
         "figura": "bandeira.png",
-        "texto": ""
-    },
-    {
-        "nome": "Ministério das Relações Exteriores",
-        "link": "https://mfa.gov.kp/en",
-        "figura": "bandeira.png",
-        "texto": ""
-    },
-    {
-        "nome": "Friend",
-        "link": "https://friend.com.kp",
-        "figura": "bandeira.png",
-        "texto": ""
+        "texto": "Site da Universidade Kim Il Sung."
     },
     {
         "nome": "Universidade de Tecnologia Kim Chaek",
         "link": "https://kut.edu.kp",
         "figura": "bandeira.png",
-        "texto": ""
+        "texto": "Site da Universidade de Tecnologia Kim Chaek."
     },
     {
-        "nome": "Kass",
+        "nome": "Ministério das Relações Exteriores",
+        "link": "https://mfa.gov.kp/en",
+        "figura": "bandeira.png",
+        "texto": "Site do Ministério das Relações Exteriores."
+    },
+    {
+        "nome": "Comitê de Relações Culturais com Países Estrangeiros",
+        "link": "https://friend.com.kp",
+        "figura": "bandeira.png",
+        "texto": "Site com notícias, e-books e informações sobre intercâmbio cultural."
+    },
+    
+    {
+        "nome": "Associação Coreana de Cientistas Sociais",
         "link": "https://kass.org.kp",
         "figura": "bandeira.png",
-        "texto": ""
+        "texto": "A Associação é uma organização acadêmica não permanente nacional, que inclui acadêmicos de instituições de ensino e pesquisa de ciências sociais da Coreia do Norte."
     },
     {
-        "nome": "Juventude",
+        "nome": "Liga da Juventude Juche",
         "link": "https://youth.rep.kp",
         "figura": "bandeira.png",
-        "texto": ""
+        "texto": "Site da Juventude do Partido dos Trabalhadores da Coreia. A principal organização juvenil da Coréia do Norte."
     },
     {
         "nome": "Air Koryo",
         "link": "https://airkoryo.com.kp",
         "figura": "bandeira.png",
-        "texto": ""
+        "texto": "Site da empresa estatal de viagens aereas."
     },
     {
-        "nome": "Site de receitas culinárias",
+        "nome": "Cozinheiros",
         "link": "https://cooks.org.kp",
         "figura": "bandeira.png",
-        "texto": ""
+        "texto": "Site da Associação Coreana de Cozinheiros. Inclui receitas e críticas de restaurantes."
     },
     {
-        "nome": "Kore Du Fund",
+        "nome": "Fundo de Educação da Coréia",
         "link": "https://koredufund.org.kp",
         "figura": "bandeira.png",
-        "texto": ""
+        "texto": "Site em inglês e coreano de uma organização não governamental que coordena o apoio à educação"
     },
     {
         "nome": "Man mulsang",
