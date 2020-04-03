@@ -79,7 +79,6 @@ var oficial =
         "figura": "bandeira.png",
         "texto": "Site com notícias, e-books e informações sobre intercâmbio cultural."
     },
-    
     {
         "nome": "Associação Coreana de Cientistas Sociais",
         "link": "https://kass.org.kp",
@@ -111,28 +110,28 @@ var oficial =
         "texto": "Site em inglês e coreano de uma organização não governamental que coordena o apoio à educação"
     },
     {
-        "nome": "Man mulsang",
+        "nome": "Manmulsang",
         "link": "https://manmulsang.com.kp",
         "figura": "bandeira.png",
-        "texto": ""
+        "texto": "É um estabelecimento que se dedica exclusivamente ao comércio eletrônico, comércio exterior e diferentes tipos de indústria de serviços na RPD-Coreia."
     },
     {
         "nome": "Agência de Inteligência Financeira",
         "link": "https://fia.law.kp",
         "figura": "bandeira.png",
-        "texto": ""
+        "texto": "Organização envolvida de forma independente no trabalho de inteligência financeira para conduzir AML e CFT. Garanta a segurança do sistema financeiro. Impedir atividades de ML e FT. Cooperação internacional e intercâmbio com as organizações nacionais e internacionais relevantes. Recebimento, coleta, análise, disseminação de transações suspeitas, inclusive em grandes somas, relevantes para ML e FT."
     },
     {
-        "nome": "Filmes Coreanos",
+        "nome": "KorFilms",
         "link": "https://korfilm.com.kp",
         "figura": "bandeira.png",
-        "texto": ""
+        "texto": "Site do Festival Internacional de Cinema de Pyongang"
     },
     {
-        "nome": "Turismo na RPD da Coreia",
+        "nome": "Administração Nacional de Turismo",
         "link": "https://tourismdprk.gov.kp",
         "figura": "bandeira.png",
-        "texto": ""
+        "texto": "É uma organização estatal encarregada da orientação e administração unificadas de assuntos turísticos no país."
     },
     {
         "nome": "Esportes",
