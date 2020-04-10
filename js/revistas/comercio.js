@@ -2,6 +2,12 @@ var comercio =
 [
     'Lista de edições da revista: "COMERCIO EXTERIOR DA RPDC"',
     {
+        "nome": "Comercio Exterior - 1° Edição de 2020",
+        "link": "https://knowkorea.github.io/TRADE/PDF/TRADE-2020-1.pdf",
+        "figura": "bandeira.png",
+        "texto": ""
+    },
+    {
         "nome": "Comercio Exterior - 4° Edição de 2019",
         "link": "https://knowkorea.github.io/TRADE/PDF/TRADE-2019-4.pdf",
         "figura": "bandeira.png",
