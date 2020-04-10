@@ -1,5 +1,5 @@
 var times = [
-    'Lista de edições do jornal semanal: "Pyongang Times".\nA versão de lingua estrangeira do jornal "Pyongyang Sinmun".',
+    'Lista de edições do jornal semanal: "PYONGONG TIMES".',
     {
         "nome": "",
         "link": "",
