@@ -1,5 +1,5 @@
 var times = [
-    'Lista de edições do jornal semanal: "PYONGONG TIMES".',
+    'Lista de edições do jornal semanal: "PYONGYANG TIMES".',
     {
         "nome": "",
         "link": "",
