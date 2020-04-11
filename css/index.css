@@ -12,7 +12,7 @@ html, body {
 body {
     display: grid;
     grid-template-columns: auto;
-    grid-template-rows: 80px 60px auto 30px;
+    grid-template-rows: 80px 60px auto;
     grid-template-areas: 
     "title"
     "menu"
@@ -21,7 +21,7 @@ body {
 
 @media screen and (max-width: 800px) {
     body {
-        grid-template-rows: 80px 200px auto 30px;
+        grid-template-rows: 40px 90px auto;
     }
 }
 

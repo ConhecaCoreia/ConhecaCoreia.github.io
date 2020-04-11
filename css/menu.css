@@ -7,11 +7,6 @@
     flex-wrap: wrap;
 }
 
-@media screen and (max-width: 800px) {
-    .menu {
-        flex-direction: column;
-    }
-}
 
 .menu i {
     font-size: 20px;
@@ -29,4 +24,15 @@
 .menu i:hover {
     cursor: pointer;
     background-color: rgba(0,0,0, 0.7);
+}
+
+@media screen and (max-width: 800px) {
+
+    .menu {
+        flex-direction: row;
+    }
+
+    .menu i {
+        font-size: 15px;
+    }
 }
