@@ -1,6 +1,6 @@
 var kfa =
 [
-    'Sites das associações de amisade com a Coreia (KFA)',
+    'Sites das associações de amizade com a Coreia (KFA)',
     {
         "nome": "KFA World",
         "link": "https://korea-dpr.com",
