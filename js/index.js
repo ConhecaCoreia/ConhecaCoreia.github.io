@@ -64,16 +64,17 @@ function toggle_page(valor) {
     history.pushState({}, '', '/' + divs[valor - 1]);
 }
 
-function load_from_url() {
+function load_from_url(path = null) {
     const divs = ['home', 'sites', 'revistas', 'about', 'sitesOficial',
         'sitesKfa', 'sitesBlogs', 'sitesYoutube', 'sitesTurismo',
         'revistasTimes', 'revistasCoreia', 'revistasHoje',
         'revistasKumsu', 'revistasComercio'
     ]
 
+    path = path || location.pathname;
     changeTo = 0;
     for (div of divs) {
-        if (location.pathname == '/' + div) {
+        if (path == '/' + div) {
             changeTo = divs.indexOf(div);
         }
     };
@@ -81,10 +82,12 @@ function load_from_url() {
     toggle_page(changeTo + 1);
 }
 
-if (location.pathname == '/') {
-    toggle_page(1);
+const page = localStorage.getItem('path');
+if (page != null) {
+    localStorage.removeItem('path');
+    load_from_url(page);
 } else {
-    load_from_url();
+    toggle_page(1);
 }
 
 window.onpopstate = function (event) {
