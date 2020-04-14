@@ -1,6 +1,12 @@
 var coreia = [
     'Lista de edições do pictorial mensal: "República Popular Democrática da COREIA".',
     '2020',
+    {
+        "nome": "RPD da COREIA - Edição Especial de 2020",
+        "link": "https://knowkorea.github.io/PDF/KOREA-2020-SPECIAL.pdf",
+        "figura": "bandeira.png",
+        "texto": ""
+    },
     /*Descomente quando fazerem o uploud de mais revistas*/
     /*{
         "nome": "RPD da COREIA - Dezembro de 2020",
