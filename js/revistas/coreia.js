@@ -331,14 +331,8 @@ var coreia = [
         "texto": ""
     },
     {
-        "nome": "RPD da COREIA - Julho de 2016",
-        "link": "https://knowkorea.github.io/PDF/KOREA-2016-7.pdf",
-        "figura": "bandeira.png",
-        "texto": ""
-    },
-    {
-        "nome": "RPD da COREIA - Junho de 2016",
-        "link": "https://knowkorea.github.io/PDF/KOREA-2016-6.pdf",
+        "nome": "RPD da COREIA - Julho e Julho de 2016",
+        "link": "https://knowkorea.github.io/PDF/KOREA-2016-6&7.pdf",
         "figura": "bandeira.png",
         "texto": ""
     },
