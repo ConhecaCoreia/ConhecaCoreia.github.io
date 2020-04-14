@@ -365,5 +365,151 @@ var coreia = [
         "link": "https://knowkorea.github.io/PDF/KOREA-2016-1.pdf",
         "figura": "bandeira.png",
         "texto": ""
-    }
+    },
+    '2015',
+    {
+        "nome": "RPD da COREIA - Dezembro de 2015",
+        "link": "https://knowkorea.github.io/PDF/KOREA-2015-12.pdf",
+        "figura": "bandeira.png",
+        "texto": ""
+    },
+    {
+        "nome": "RPD da COREIA - Novembro de 2015",
+        "link": "https://knowkorea.github.io/PDF/KOREA-2015-11.pdf",
+        "figura": "bandeira.png",
+        "texto": ""
+    },
+    /*{
+        "nome": "RPD da COREIA - Outubro de 2015",
+        "link": "https://knowkorea.github.io/PDF/KOREA-2015-10.pdf",
+        "figura": "bandeira.png",
+        "texto": ""
+    },*/
+    {
+        "nome": "RPD da COREIA - Setembro de 2015",
+        "link": "https://knowkorea.github.io/PDF/KOREA-2015-9.pdf",
+        "figura": "bandeira.png",
+        "texto": ""
+    },
+    {
+        "nome": "RPD da COREIA - Agosto de 2015",
+        "link": "https://knowkorea.github.io/PDF/KOREA-2015-8.pdf",
+        "figura": "bandeira.png",
+        "texto": ""
+    },
+    {
+        "nome": "RPD da COREIA - Julho de 2015",
+        "link": "https://knowkorea.github.io/PDF/KOREA-2015-7.pdf",
+        "figura": "bandeira.png",
+        "texto": ""
+    },
+    {
+        "nome": "RPD da COREIA - Junho de 2015",
+        "link": "https://knowkorea.github.io/PDF/KOREA-2015-6.pdf",
+        "figura": "bandeira.png",
+        "texto": ""
+    },
+    {
+        "nome": "RPD da COREIA - Maio de 2015",
+        "link": "https://knowkorea.github.io/PDF/KOREA-2015-5.pdf",
+        "figura": "bandeira.png",
+        "texto": ""
+    },
+    {
+        "nome": "RPD da COREIA - Abril de 2015",
+        "link": "https://knowkorea.github.io/PDF/KOREA-2015-4.pdf",
+        "figura": "bandeira.png",
+        "texto": ""
+    },
+    {
+        "nome": "RPD da COREIA - Março de 2015",
+        "link": "https://knowkorea.github.io/PDF/KOREA-2015-3.pdf",
+        "figura": "bandeira.png",
+        "texto": ""
+    },
+    {
+        "nome": "RPD da COREIA - Fevereiro de 2015",
+        "link": "https://knowkorea.github.io/PDF/KOREA-2015-2.pdf",
+        "figura": "bandeira.png",
+        "texto": ""
+    },
+    {
+        "nome": "RPD da COREIA - Janeiro de 2015",
+        "link": "https://knowkorea.github.io/PDF/KOREA-2015-1.pdf",
+        "figura": "bandeira.png",
+        "texto": ""
+    },
+    '2014',
+    /*{
+        "nome": "RPD da COREIA - Dezembro de 2014",
+        "link": "https://knowkorea.github.io/PDF/KOREA-2014-12.pdf",
+        "figura": "bandeira.png",
+        "texto": ""
+    },*/
+    {
+        "nome": "RPD da COREIA - Novembro de 2014",
+        "link": "https://knowkorea.github.io/PDF/KOREA-2014-11.pdf",
+        "figura": "bandeira.png",
+        "texto": ""
+    },
+    {
+        "nome": "RPD da COREIA - Outubro de 2014",
+        "link": "https://knowkorea.github.io/PDF/KOREA-2014-10.pdf",
+        "figura": "bandeira.png",
+        "texto": ""
+    },
+    {
+        "nome": "RPD da COREIA - Setembro de 2014",
+        "link": "https://knowkorea.github.io/PDF/KOREA-2014-9.pdf",
+        "figura": "bandeira.png",
+        "texto": ""
+    },
+    {
+        "nome": "RPD da COREIA - Agosto de 2014",
+        "link": "https://knowkorea.github.io/PDF/KOREA-2014-8.pdf",
+        "figura": "bandeira.png",
+        "texto": ""
+    },
+    {
+        "nome": "RPD da COREIA - Julho de 2014",
+        "link": "https://knowkorea.github.io/PDF/KOREA-2014-7.pdf",
+        "figura": "bandeira.png",
+        "texto": ""
+    },
+    {
+        "nome": "RPD da COREIA - Junho de 2014",
+        "link": "https://knowkorea.github.io/PDF/KOREA-2014-6.pdf",
+        "figura": "bandeira.png",
+        "texto": ""
+    },
+    {
+        "nome": "RPD da COREIA - Maio de 2014",
+        "link": "https://knowkorea.github.io/PDF/KOREA-2014-5.pdf",
+        "figura": "bandeira.png",
+        "texto": ""
+    },
+    {
+        "nome": "RPD da COREIA - Abril de 2014",
+        "link": "https://knowkorea.github.io/PDF/KOREA-2014-4.pdf",
+        "figura": "bandeira.png",
+        "texto": ""
+    },
+    {
+        "nome": "RPD da COREIA - Março de 2014",
+        "link": "https://knowkorea.github.io/PDF/KOREA-2014-3.pdf",
+        "figura": "bandeira.png",
+        "texto": ""
+    },
+    {
+        "nome": "RPD da COREIA - Fevereiro de 2014",
+        "link": "https://knowkorea.github.io/PDF/KOREA-2014-2.pdf",
+        "figura": "bandeira.png",
+        "texto": ""
+    }/*,
+    {
+        "nome": "RPD da COREIA - Janeiro de 2014",
+        "link": "https://knowkorea.github.io/PDF/KOREA-2014-1.pdf",
+        "figura": "bandeira.png",
+        "texto": ""
+    }*/
 ]
