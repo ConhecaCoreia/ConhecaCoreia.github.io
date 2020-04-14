@@ -75,12 +75,12 @@ var hoje = [
         "texto": ""
     },
     '2019',
-    {
+    /*{
         "nome": "COREIA HOJE - Dezembro de 2019",
         "link": "https://knowkorea.github.io/PDF/TODAY-2019-12.pdf",
         "figura": "bandeira.png",
         "texto": ""
-    },
+    },*/
     {
         "nome": "COREIA HOJE - Novembro de 2019",
         "link": "https://knowkorea.github.io/PDF/TODAY-2019-11.pdf",
