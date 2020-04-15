@@ -200,30 +200,6 @@ var oficial =
         "texto": ""
     },
     {
-        "nome": "naenara.com.kp/sites/kkf",
-        "link": "https://naenara.com.kp/sites/kkf",
-        "figura": "bandeira.png",
-        "texto": ""
-    },
-    {
-        "nome": "naenara.com.kp/sites/kfpd",
-        "link": "https://naenara.com.kp/sites/kfpd",
-        "figura": "bandeira.png",
-        "texto": ""
-    },
-    {
-        "nome": "naenara.com.kp/sites/ryugyong",
-        "link": "https://naenara.com.kp/sites/ryugyong",
-        "figura": "bandeira.png",
-        "texto": ""
-    },
-    {
-        "nome": "naenara.com.kp/sites/kgf",
-        "link": "https://naenara.com.kp/sites/kgf",
-        "figura": "bandeira.png",
-        "texto": ""
-    },
-    {
         "nome": "ryomyong.edu.kp",
         "link": "https://ryomyong.edu.kp",
         "figura": "bandeira.png",
@@ -235,5 +211,64 @@ var oficial =
         "figura": "bandeira.png",
         "texto": ""
     },
-    
+    {
+        "nome": "Kgf",
+        "link": "https://naenara.com.kp/sites/kgf",
+        "figura": "bandeira.png",
+        "texto": ""
+    },
+    {
+        "nome": "Kkf",
+        "link": "https://naenara.com.kp/sites/kkf",
+        "figura": "bandeira.png",
+        "texto": ""
+    },
+    {
+        "nome": "Kfpd",
+        "link": "https://naenara.com.kp/sites/kfpd",
+        "figura": "bandeira.png",
+        "texto": ""
+    },
+    {
+        "nome": "Ryugyong",
+        "link": "https://naenara.com.kp/sites/ryugyong",
+        "figura": "bandeira.png",
+        "texto": ""
+    },
+    {
+        "nome": "Fundo Nacional de Proteção ao Patrimônio da Coreia",
+        "link": "http://naenara.com.kp/sites/national/",
+        "figura": "bandeira.png",
+        "texto": "A missão do Fundo é receber contribuições, incluindo dados históricos valiosos, relíquias, materiais e fundos de todo o povo coreano do norte, sul e exterior e de povos progressistas do mundo, a fim de enriquecer o tesouro do patrimônio nacional e contribuir à conservação do patrimônio nacional, como escavação, verificação, preservação e gerenciamento do patrimônio."
+    },
+    {
+        "nome": "Unjong",
+        "link": "http://naenara.com.kp/sites/unjong/",
+        "figura": "bandeira.png",
+        "texto": ""
+    },
+    {
+        "nome": "Samhae",
+        "link": "http://www.naenara.com.kp/sites/samhae/",/*http://www.samhae.com.kp/*/
+        "figura": "bandeira.png",
+        "texto": ""
+    },
+    {
+        "nome": "Future Re Company",
+        "link": "http://naenara.com.kp/sites/refuture/",/*http://futurere.com.kp/*/
+        "figura": "bandeira.png",
+        "texto": ""
+    },
+    {
+        "nome": "Rainbow",
+        "link": "https://naenara.com.kp/sites/rainbow",
+        "figura": "bandeira.png",
+        "texto": ""
+    },
+    {
+        "nome": "Polestar",
+        "link": "http://naenara.com.kp/sites/polestar/",/*http://www.polestar.com.kp/*/
+        "figura": "bandeira.png",
+        "texto": ""
+    }
 ]
