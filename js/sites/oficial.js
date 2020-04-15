@@ -152,16 +152,16 @@ var oficial =
         "texto": ""
     },
     {
-        "nome": "kftrade.com.kp ",
+        "nome": "Comercio Exterior da RPD-Coreia",
         "link": "http://kftrade.com.kp ",
         "figura": "bandeira.png",
         "texto": ""
     },
     {
-        "nome": "kiyctc.com.kp",
+        "nome": "Compania Internacional de Viagens de Jovens e Crianças para Coreia",
         "link": "http://kiyctc.com.kp",
         "figura": "bandeira.png",
-        "texto": ""
+        "texto": "O KIYCTC ocupa o topo do ranking de empresas de viagens internacionais na RPDC. \n A importante missão da empresa é organizar o turismo na RPDC em estreito contato com empresas de viagens de outros países. Também organiza o intercâmbio e acampamento de jovens e crianças de países estrangeiros como o Escritório Internacional de Intercâmbio de Jovens e Crianças da Coréia (KIYCEB)."
     },
     {
         "nome": "pulbora.edu.kp",
@@ -176,64 +176,58 @@ var oficial =
         "texto": ""
     },
     {
-        "nome": "korelcfund.org.kp",
+        "nome": "Fundo de Assistência ao Idoso da Coreia",
         "link": "http://korelcfund.org.kp",
         "figura": "bandeira.png",
-        "texto": ""
+        "texto": "A Federação de Proteção Joseon Roja está comprometida em garantir os direitos e interesses dos idosos na República Popular Democrática da Coréia e em torná-los mais gratificantes e felizes, mental e fisicamente saudáveis.  Para planejar, negociar e implementar o projeto unificado de proteção a idosos, que é uma das políticas sociais importantes do país, o comitê de proteção a idosos é organizado e operado no gabinete, províncias, cidades e condados. Para esse fim, em 30 de abril de Juche 92 (2003), foi fundada a Federação de Proteção Joseon Roja."
     },
     {
-        "nome": "mirae.aca.kp",
+        "nome": "Comissão de Estado de Ciência e Tecnologia",
         "link": "http://mirae.aca.kp",
         "figura": "bandeira.png",
         "texto": ""
     },
     {
-        "nome": "knic.com.kp",
-        "link": "http://knic.com.kp",
-        "figura": "bandeira.png",
-        "texto": ""
-    },
-    {
-        "nome": "ma.gov.kp",
+        "nome": "Administração Maritima da RPD Coreia",
         "link": "http://ma.gov.kp",
         "figura": "bandeira.png",
         "texto": ""
     },
     {
-        "nome": "ryomyong.edu.kp",
+        "nome": "Conselho de Educação da RPD Coréia",
         "link": "http://ryomyong.edu.kp",
         "figura": "bandeira.png",
         "texto": ""
     },
     {
-        "nome": "korart.sca.kp",
+        "nome": "Ministério da Cultura da RPDC",
         "link": "http://korart.sca.kp",
         "figura": "bandeira.png",
-        "texto": ""
+        "texto": "Este site representa o Ministério da Cultura da RPDC na internet"
     },
     {
-        "nome": "Kgf",
+        "nome": "Fundação Coreia Verde",
         "link": "http://naenara.com.kp/sites/kgf",
         "figura": "bandeira.png",
-        "texto": ""
+        "texto": "É a ONG que procura ajudar o povo coreano a manter sua terra de tapeçaria dourada de 3000 ri em melhores condições e melhorá-la maravilhosamente no presente momento . Também desenvolve esforços conjuntos da comunidade internacional para alcançar o objetivo comum de alcançar um futuro próspero e seguro em prol da humanidade e da Terra. A missão do KGF é oferecer apoio financeiro, material e técnico para a promoção do desenvolvimento verde, a fim de alcançar progresso econômico sustentado, ambiente ecológico limpo e condições de vida civilizadas e outras possibilidades relevantes."
     },
     {
-        "nome": "Kkf",
+        "nome": "Fundação Kim Il Sung- Kim Jong Il",
         "link": "http://naenara.com.kp/sites/kkf",
         "figura": "bandeira.png",
-        "texto": ""
+        "texto": "A missão da Fundação Kim Il Sung - Kim Jong Il é preservar o Palácio Kumsusan do Sol, onde estão os grandes líderes do estado, como o santuário supremo eterno dos Juche e arrecadar fundos para educação, saúde pública e proteção ambiental. , bem como pela paz e progresso da humanidade, de acordo com as instruções dos grandes líderes que dedicaram tudo ao bem-estar do povo."
     },
     {
-        "nome": "Kfpd",
+        "nome": "Federação Coreana para a Proteção das Pessoas com Deficiência",
         "link": "http://naenara.com.kp/sites/kfpd",
         "figura": "bandeira.png",
-        "texto": ""
+        "texto": "O KFPD é a única organização não governamental relacionada às pessoas com deficiência aprovada pelo governo e inclui todas as organizações envolvidas nos assuntos das pessoas com deficiência. - Missão e Tarefa A missão da KFPD é representar e defender os direitos e interesses de todas as pessoas com deficiência na Coreia do Norte."
     },
     {
-        "nome": "Ryugyong",
+        "nome": "Coreia Pyongyang Ryugyong Alimentos",
         "link": "http://naenara.com.kp/sites/ryugyong",
         "figura": "bandeira.png",
-        "texto": ""
+        "texto": "Site da Compania Coreia Pyongyang Ryugyong Alimentos. Seu principal negócio é o serviço de cozinha tradicional coreana, a produção de alimentos tradicionais coreanos, incluindo kimchi, a comercialização de pratos embalados, bebidas e artesanato e a troca de pratos nacionais com vários países."
     },
     {
         "nome": "Fundo Nacional de Proteção ao Patrimônio da Coreia",
@@ -242,8 +236,15 @@ var oficial =
         "texto": "A missão do Fundo é receber contribuições, incluindo dados históricos valiosos, relíquias, materiais e fundos de todo o povo coreano do norte, sul e exterior e de povos progressistas do mundo, a fim de enriquecer o tesouro do patrimônio nacional e contribuir à conservação do patrimônio nacional, como escavação, verificação, preservação e gerenciamento do patrimônio."
     },
     {
-        "nome": "Unjong",
+        "nome": "Parque de Desenvolvimento de Alta Teconologia de Unjong",
         "link": "http://naenara.com.kp/sites/unjong/",
+        "figura": "bandeira.png",
+        "texto": "O Parque de Desenvolvimento de Alta Tecnologia Unjong é um dos parques de desenvolvimento econômico a serem criados de acordo com o plano do governo de fazer um avanço no esforço de construir uma economia baseada no conhecimento."
+    },
+    'Compania de Seguros',
+    {
+        "nome": "Corporação Nacional de Seguros da Coreia",
+        "link": "http://knic.com.kp",
         "figura": "bandeira.png",
         "texto": ""
     },
@@ -269,6 +270,6 @@ var oficial =
         "nome": "Polestar",
         "link": "http://naenara.com.kp/sites/polestar/",/*http://www.polestar.com.kp/*/
         "figura": "bandeira.png",
-        "texto": ""
+        "texto": "A Polestar foi lançada como uma companhia de seguros imobiliários especializada em um cenário de crescimento dinâmico na economia nacional, com impulso para a frente reunido recentemente e aumento subsequente na necessidade da comunidade de uma cobertura mais ampla. Hoje nossa cobertura inclui incêndio, engenharia, agricultura e crédito."
     }
 ]
