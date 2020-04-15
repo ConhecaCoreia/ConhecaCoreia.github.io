@@ -13,7 +13,7 @@ var oficial =
         "figura": "bandeira.png",
         "texto": "É o portal oficial do Governo da RPD-Coreia."
     },
-    'Jornais',/***********************************************/
+    'Noticias',/***********************************************/
     {
         "nome": "Agencia Central de Noticias Coreanas",
         "link": "http://kcna.kp",
@@ -44,18 +44,30 @@ var oficial =
         "figura": "bandeira.png",
         "texto": "Site da rede de radio 'Voz da Coreia'."
     },
-    'Educação & Ciência',/******************************************/
     {
-        "nome": "Conselho de Educação da RPD Coréia",
-        "link": "http://ryomyong.edu.kp",
+        "nome": "Grande Unidade Nacional - GNU",
+        "link": "http://gnu.rep.kp",
         "figura": "bandeira.png",
-        "texto": ""
+        "texto": "Site em coreano destinado ao público na Coréia do Sul, Japão e China com foco na unificação da península coreana."
     },
+    {
+        "nome": "Jornal Democracia Chosun",
+        "link": "http://minzu.rep.kp",
+        "figura": "bandeira.png",
+        "texto": "Jornal em Coreano. Chosun é realmente o nome do país, mas o ocidende ainda a chama de Coreia em referencia a Dinastia passada chamada Koryo."
+    },
+    'Educação & Ciência',/******************************************/
     {
         "nome": "Livros Coreanos",
         "link": "http://korean-books.com.kp/en",
         "figura": "bandeira.png",
         "texto": "Site com livros da RPD-Coreia, além de artigos, revistas, pictoriais, etc. (em varios idiomas)."
+    },
+    {
+        "nome": "Conselho de Educação da RPD Coréia",
+        "link": "http://ryomyong.edu.kp",
+        "figura": "bandeira.png",
+        "texto": ""
     },
     {
         "nome": "Universidade Kim Il Sung",
@@ -81,37 +93,17 @@ var oficial =
         "figura": "bandeira.png",
         "texto": ""
     },
-    'Relações Exteriores',/**************************************** */
     {
-        "nome": "Ministério das Relações Exteriores",
-        "link": "http://mfa.gov.kp/en",
+        "nome": "Centro de ativos intelectuais Samhung",
+        "link": "http://pulbora.edu.kp",
         "figura": "bandeira.png",
-        "texto": "Site do Ministério das Relações Exteriores."
+        "texto": "A sua missão é proteger os direitos legais dos detentores de propriedade intelectual e promover o desenvolvimento, a difusão e o intercâmbio de produtos intelectuais, conforme exigido pela legislação relacionada da RPDC, contribuindo assim de maneira tangível para o desenvolvimento da sociedade, da economia e da cultura humana na região. era da economia baseada no conhecimento."
     },
     {
-        "nome": "Comitê de Relações Culturais com Países Estrangeiros",
-        "link": "http://friend.com.kp",
+        "nome": "Grande Casa de Estudos do Povo",
+        "link": "http://www.gpsh.edu.kp:8080/",
         "figura": "bandeira.png",
-        "texto": "Site com notícias, e-books e informações sobre intercâmbio cultural."
-    },
-    {
-        "nome": "Compania Internacional de Viagens de Jovens e Crianças para Coreia",
-        "link": "http://kiyctc.com.kp",
-        "figura": "bandeira.png",
-        "texto": "O KIYCTC ocupa o topo do ranking de empresas de viagens internacionais na RPDC. \n A importante missão da empresa é organizar o turismo na RPDC em estreito contato com empresas de viagens de outros países. Também organiza o intercâmbio e acampamento de jovens e crianças de países estrangeiros como o Escritório Internacional de Intercâmbio de Jovens e Crianças da Coréia (KIYCEB)."
-    },
-    'Turismo',/******************************************************* */
-    {
-        "nome": "Air Koryo",
-        "link": "http://airkoryo.com.kp",
-        "figura": "bandeira.png",
-        "texto": "Site da empresa estatal de viagens aereas."
-    },
-    {
-        "nome": "Administração Nacional de Turismo",
-        "link": "http://tourismdprk.gov.kp",
-        "figura": "bandeira.png",
-        "texto": "É uma organização estatal encarregada da orientação e administração unificadas de assuntos turísticos no país."
+        "texto": "A Grande Casa de Estudo do Povo, o imenso edifício em que todos podem estudar, não pode ser encontrado em nenhuma parte da história da cultura humana, está sendo admirado e elogiado constantemente pelas pessoas de todo o mundo."
     },
     'Cultura e Esportes',/******************************************************** */
     {
@@ -137,6 +129,38 @@ var oficial =
         "link": "http://cooks.org.kp",
         "figura": "bandeira.png",
         "texto": "Site da Associação Coreana de Cozinheiros. Inclui receitas e críticas de restaurantes."
+    },
+    'Turismo',/******************************************************* */
+    {
+        "nome": "Air Koryo",
+        "link": "http://airkoryo.com.kp",
+        "figura": "bandeira.png",
+        "texto": "Site da empresa estatal de viagens aereas."
+    },
+    {
+        "nome": "Administração Nacional de Turismo",
+        "link": "http://tourismdprk.gov.kp",
+        "figura": "bandeira.png",
+        "texto": "É uma organização estatal encarregada da orientação e administração unificadas de assuntos turísticos no país."
+    },
+    {
+        "nome": "Compania Internacional de Viagens de Jovens e Crianças para Coreia",
+        "link": "http://kiyctc.com.kp",
+        "figura": "bandeira.png",
+        "texto": "O KIYCTC ocupa o topo do ranking de empresas de viagens internacionais na RPDC. \n A importante missão da empresa é organizar o turismo na RPDC em estreito contato com empresas de viagens de outros países. Também organiza o intercâmbio e acampamento de jovens e crianças de países estrangeiros como o Escritório Internacional de Intercâmbio de Jovens e Crianças da Coréia (KIYCEB)."
+    },
+    'Relações Exteriores',/**************************************** */
+    {
+        "nome": "Ministério das Relações Exteriores",
+        "link": "http://mfa.gov.kp/en",
+        "figura": "bandeira.png",
+        "texto": "Site do Ministério das Relações Exteriores."
+    },
+    {
+        "nome": "Comitê de Relações Culturais com Países Estrangeiros",
+        "link": "http://friend.com.kp",
+        "figura": "bandeira.png",
+        "texto": "Site com notícias, e-books e informações sobre intercâmbio cultural."
     },
     'Comercio e Empresas',/**************************************************/
     {
@@ -237,19 +261,7 @@ var oficial =
         "figura": "bandeira.png",
         "texto": "A Polestar foi lançada como uma companhia de seguros imobiliários especializada em um cenário de crescimento dinâmico na economia nacional, com impulso para a frente reunido recentemente e aumento subsequente na necessidade da comunidade de uma cobertura mais ampla. Hoje nossa cobertura inclui incêndio, engenharia, agricultura e crédito."
     },
-    'Outros',/****************** */
-    {
-        "nome": "Administração Maritima da RPD Coreia",
-        "link": "http://ma.gov.kp",
-        "figura": "bandeira.png",
-        "texto": ""
-    },
-    {
-        "nome": "Grande Unidade Nacional - GNU",
-        "link": "http://gnu.rep.kp",
-        "figura": "bandeira.png",
-        "texto": "Site em coreano destinado ao público na Coréia do Sul, Japão e China com foco na unificação da península coreana."
-    },
+    'Outros',
     {
         "nome": "Liga da Juventude Juche",
         "link": "http://youth.rep.kp",
@@ -257,26 +269,14 @@ var oficial =
         "texto": "Site da Juventude do Partido dos Trabalhadores da Coreia. A principal organização juvenil da Coréia do Norte."
     },
     {
-        "nome": "minzu.rep.kp",
-        "link": "http://minzu.rep.kp",
-        "figura": "bandeira.png",
-        "texto": ""
-    },
     {
         "nome": "klic.com.kp",
         "link": "http://klic.com.kp",
         "figura": "bandeira.png",
         "texto": ""
     },
-    {
-        "nome": "pulbora.edu.kp",
-        "link": "http://pulbora.edu.kp",
-        "figura": "bandeira.png",
-        "texto": ""
-    },
-    {
-        "nome": "gpsh.edu.kp",
-        "link": "http://gpsh.edu.kp",
+        "nome": "Administração Maritima",
+        "link": "http://ma.gov.kp",
         "figura": "bandeira.png",
         "texto": ""
     }
