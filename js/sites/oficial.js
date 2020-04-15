@@ -269,12 +269,6 @@ var oficial =
         "texto": "Site da Juventude do Partido dos Trabalhadores da Coreia. A principal organização juvenil da Coréia do Norte."
     },
     {
-    {
-        "nome": "klic.com.kp",
-        "link": "http://klic.com.kp",
-        "figura": "bandeira.png",
-        "texto": ""
-    },
         "nome": "Administração Maritima",
         "link": "http://ma.gov.kp",
         "figura": "bandeira.png",
