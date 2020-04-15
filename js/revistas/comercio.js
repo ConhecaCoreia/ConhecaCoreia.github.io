@@ -132,13 +132,13 @@ var comercio =
         "link": "https://knowkorea.github.io/PDF/TRADE-2015-4.pdf",
         "figura": "bandeira.png",
         "texto": ""
-    },/*
+    },
     {
         "nome": "Comercio Exterior - 3° Trimestre de 2015",
-        "link": "https://knowkorea.github.io/PDF/TRADE-2015-3.pdf",
+        "link": "https://knowkorea.github.io/PDF/TRADE-2015-3_CN.pdf",
         "figura": "bandeira.png",
-        "texto": ""
-    },*/
+        "texto": "Em Chinês"
+    },
     {
         "nome": "Comercio Exterior - 2° Trimestre de 2015",
         "link": "https://knowkorea.github.io/PDF/TRADE-2015-2.pdf",
