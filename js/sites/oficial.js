@@ -1,19 +1,13 @@
 var oficial =
 [
     'SITES OFICIAIS DA RÉPUBLICA POPULAR DEMOCRATICA DA COREIA',
-    {
-        "nome": "Portal RPDC ",
-        "link": "http://dprkportal.kp",
-        "figura": "bandeira.png",
-        "texto": "Portal oficial de sites da RPD-Coreia"
-    },
+    'Noticias',/***********************************************/
     {
         "nome": "Naenara",
         "link": "http://naenara.com.kp",
         "figura": "bandeira.png",
         "texto": "É o portal oficial do Governo da RPD-Coreia."
     },
-    'Noticias',/***********************************************/
     {
         "nome": "Agencia Central de Noticias Coreanas",
         "link": "http://kcna.kp",
@@ -273,5 +267,11 @@ var oficial =
         "link": "http://ma.gov.kp",
         "figura": "bandeira.png",
         "texto": ""
+    },
+    {
+        "nome": "Portal RPDC ",
+        "link": "http://dprkportal.kp",
+        "figura": "bandeira.png",
+        "texto": "Portal oficial de sites da RPD-Coreia"
     }
 ]
