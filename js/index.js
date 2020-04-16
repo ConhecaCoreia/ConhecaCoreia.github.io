@@ -1,21 +1,35 @@
 function load_sites(class_name, variavel_sites) {
     sites = document.querySelector(class_name)
     var site_container = null;
+    var site_container_name = null;
+    var page_name = null;
     variavel_sites.forEach(e => {
         if (typeof (e) != 'object') {
+            if (page_name == null ) page_name = e;
+
             if (site_container != null) {
                 sites.appendChild(site_container);
                 site_container = null;
             }
             var category = document.createElement("div")
             category.className = 'category'
-            category.id = e
+            site_container_name = e + page_name
             category.appendChild(document.createTextNode(e))
+            category.onclick = function (ev){
+                let status = document.getElementById(e + page_name).style.display
+                if (status == "none"){
+                    status = "flex"
+                }else{
+                    status = "none"
+                }
+                document.getElementById(e + page_name).style.display = status
+            }
             sites.appendChild(category);
         } else {
             if (site_container == null) {
                 site_container = document.createElement("div")
                 site_container.className = 'site_container'
+                site_container.id = site_container_name
             }
 
             var site = document.createElement("a");
@@ -44,6 +58,7 @@ function load_sites(class_name, variavel_sites) {
             site.appendChild(title)
             site.appendChild(container)
             site_container.appendChild(site)
+            site_container.style.display = "none"
         }
     })
     sites.appendChild(site_container);

@@ -92,3 +92,8 @@
 #sites > .site_container > .site:hover > .container > .site-figura {
     opacity: 0.5;
 }
+
+#sites .category:hover {
+    cursor: pointer;
+    background-color: rgba(0,0,0, 0.1);
+}
