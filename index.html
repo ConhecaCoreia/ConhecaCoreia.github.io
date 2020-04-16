@@ -31,7 +31,7 @@
         <i class="fa fa-server" onclick="toggle_page(3)"> <span>Revistas da Coreia</span></i>
         <i class="fa fa-users"  onclick="toggle_page(4)"> <span>Sobre</span></i>
     </div>
-    <div class="content-container">
+
         <div class="content">
                 <div class="home">
                     <div class="home-image">
@@ -44,6 +44,15 @@
                         <iframe class="home-video-src" src="https://www.youtube.com/embed/gw2x8ZXj6VA"
                     frameborder="0" allowfullscreen ></iframe>
                     <i onclick="nextvideo()" class="fa fa-arrow-circle-right"></i>
+                    </div>
+                    <div class="home-post">
+                        <i onclick="previouspost()" class="fa fa-arrow-circle-left"></i>
+                        <div class="home-post-container">
+                            <h3 class="post-title"></h3>
+                            <p class="post-content"></p>
+                            Link: <a target="_blank" class="post-link"></a>
+                        </div>
+                        <i onclick="nextpost()" class="fa fa-arrow-circle-right"></i>
                     </div>        
                 </div>
 
@@ -82,7 +91,6 @@
             <div id="sites" class="revistasKumsu" ></div>
             <div id="sites" class="revistasComercio" ></div>
         </div>
-    </div>
 
     <script src="js/sites/turismo.js"></script>
     <script src="js/sites/blogs.js"></script>
@@ -96,6 +104,8 @@
     <script src="js/revistas/comercio.js"></script>
     <script src="js/home/image.js"></script>
     <script src="js/home/video.js"></script>
+    <script src="js/home/posts.js"></script>
+    <script src="js/home/post.js"></script>
     <script src="js/index.js"></script>
 
 </body>

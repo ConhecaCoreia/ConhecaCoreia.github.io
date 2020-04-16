@@ -1,20 +1,26 @@
 function nextpost() {
-    if (N2 === posts.length - 1){
-        N2 = 0
+    if (N3 === posts.length - 1){
+        N3 = 0
     }else{
-        N2++;
+        N3++;
     }
-    document.getElementsByClassName("home-post")[0].src = posts[N2];
+    document.getElementsByClassName("post-title")[0].innerHTML = posts[N3].nome
+    document.getElementsByClassName("post-content")[0].innerHTML = posts[N3].texto
+    document.getElementsByClassName("post-link")[0].href = posts[N3].link;
 }
 
 function previouspost() {
-    if (N2 < 1){
-        N2 = posts.length - 1
+    if (N3 < 1){
+        N3 = posts.length - 1
     }else{
-        N2--;
+        N3--;
     }
-    document.getElementsByClassName("home-post")[0].src = posts[N2];
+    document.getElementsByClassName("post-title")[0].innerHTML = posts[N3].nome
+    document.getElementsByClassName("post-content")[0].innerHTML = posts[N3].texto
+    document.getElementsByClassName("post-link")[0].href = posts[N3].link;
+    document.getElementsByClassName("post-link")[0].innerHTML = posts[N3].link;
 }
 
 
-var N2 = 0;
+var N3 = 1;
+previouspost()

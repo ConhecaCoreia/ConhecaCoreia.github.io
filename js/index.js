@@ -48,7 +48,7 @@ function load_sites(class_name, variavel_sites) {
             title.className = 'site-' + 'nome'
 
             var text = document.createElement("div")
-            text.appendChild(document.createTextNode(e['texto']))
+            text.innerHTML =  e['texto']
             text.className = 'site-' + 'texto'
             var container = document.createElement('div')
             container.className = 'container'
