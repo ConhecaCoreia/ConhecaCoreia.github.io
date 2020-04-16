@@ -7,7 +7,6 @@ function nextpost() {
     document.getElementsByClassName("post-title")[0].innerHTML = posts[N3].nome
     document.getElementsByClassName("post-content")[0].innerHTML = posts[N3].texto
     document.getElementsByClassName("post-link")[0].href = posts[N3].link;
-    document.getElementsByClassName("post-link")[0].innerHTML = posts[N3].link;
 }
 
 function previouspost() {
@@ -19,7 +18,6 @@ function previouspost() {
     document.getElementsByClassName("post-title")[0].innerHTML = posts[N3].nome
     document.getElementsByClassName("post-content")[0].innerHTML = posts[N3].texto
     document.getElementsByClassName("post-link")[0].href = posts[N3].link;
-    document.getElementsByClassName("post-link")[0].innerHTML = posts[N3].link;
 }
 
 
