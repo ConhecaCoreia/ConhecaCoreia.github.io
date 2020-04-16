@@ -12,7 +12,7 @@ html, body {
 body {
     display: grid;
     grid-template-columns: auto;
-    grid-template-rows: 80px 60px auto;
+    grid-template-rows: 60px 60px auto;
     grid-template-areas: 
     "title"
     "menu"
