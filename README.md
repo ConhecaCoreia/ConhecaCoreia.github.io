@@ -7,4 +7,4 @@ O objetivo secundario é divulgar informações da Coreia Popular, pictoriais, r
 
 Sinta-se livre para contribuir fazendo um pull request.
 
-Criado por [Thalles Campagnani](https://Campagnani.GitHub.io) e [Anderson Bento](https://BentoAVB.GitHub.io)
+Criado por [Thalles Campagnani](https://Campagnani.GitHub.io).
