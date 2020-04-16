@@ -31,52 +31,57 @@
         <i class="fa fa-server" onclick="toggle_page(3)"> <span>Revistas da Coreia</span></i>
         <i class="fa fa-users"  onclick="toggle_page(4)"> <span>Sobre</span></i>
     </div>
-
-    <div class="content">
-            <div class="home">
-                <img class="home-image" src="/images/home/0.jpg" alt="">
-                <button class="button1" onclick="previous()">Anterior</button>
-                <button class="button2" onclick="next()">Próximo</button>
-                <div class="home-video">
-                    <iframe src="https://www.youtube.com/embed/PjVJ4FqaowA"
-                frameborder="0" allowfullscreen height="100%" width="100%"></iframe>
+    <div class="content-container">
+        <div class="content">
+                <div class="home">
+                    <div class="home-image">
+                        <i onclick="previousimage()" class="fa fa-arrow-circle-left"></i>
+                        <img class="home-image-src"  src="/images/home/0.jpg" alt="">
+                        <i onclick="nextimage()" class="fa fa-arrow-circle-right"></i>
+                    </div>
+                    <div class="home-video">
+                        <i onclick="previousvideo()" class="fa fa-arrow-circle-left"></i>
+                        <iframe class="home-video-src" src="https://www.youtube.com/embed/gw2x8ZXj6VA"
+                    frameborder="0" allowfullscreen ></iframe>
+                    <i onclick="nextvideo()" class="fa fa-arrow-circle-right"></i>
+                    </div>        
                 </div>
+
+            <div class="about">
+                Este site é mantido pela comunidade. Para contribuir, acesse: <a href="http://github.com/ConhecaCoreia">github.com/ConhecaCoreia</a>
+                
+                <hr style="width: 50%;">
+
+                Criado por: Thalles Campagnani - thallescampagnani@gmail.com
             </div>
 
-        <div class="about">
-            Este site é mantido pela comunidade. Para contribuir, acesse: <a href="http://github.com/ConhecaCoreia">github.com/ConhecaCoreia</a>
-            
-            <hr style="width: 50%;">
+            <div class="sites" id="sites">
+                <div class="category2" onclick="toggle_page(5)"> Sites Oficiais</div>
+                <div class="category2" onclick="toggle_page(6)"> Sites da KFA</div>
+                <div class="category2" onclick="toggle_page(7)"> Blogs e Outros Sites</div>
+                <div class="category2" onclick="toggle_page(8)"> Canais do Youtube</div>
+                <div class="category2" onclick="toggle_page(9)"> Sites de Turismo</div>
+            </div>
 
-            Criado por: Thalles Campagnani - thallescampagnani@gmail.com
+            <div class="revistas" id="sites">
+                <div class="category2" onclick="toggle_page(10)"> Jornal THE PYONGANG TIMES</div>
+                <div class="category2" onclick="toggle_page(11)"> Pictorial RPD-COREIA</div>
+                <div class="category2" onclick="toggle_page(12)"> Revista COREIA HOJE</div>
+                <div class="category2" onclick="toggle_page(13)"> Revista MONTE KUMSU</div>
+                <div class="category2" onclick="toggle_page(14)"> Revista COMÉRCIO EXTERIOR</div>
+            </div>
+
+            <div id="sites" class="sitesOficial" ></div>
+            <div id="sites" class="sitesKfa" ></div>
+            <div id="sites" class="sitesBlogs" ></div>
+            <div id="sites" class="sitesYoutube" ></div>
+            <div id="sites" class="sitesTurismo" ></div>
+            <div id="sites" class="revistasTimes" ></div>
+            <div id="sites" class="revistasCoreia" ></div>
+            <div id="sites" class="revistasHoje" ></div>
+            <div id="sites" class="revistasKumsu" ></div>
+            <div id="sites" class="revistasComercio" ></div>
         </div>
-
-        <div class="sites" id="sites">
-            <div class="category2" onclick="toggle_page(5)"> Sites Oficiais</div>
-            <div class="category2" onclick="toggle_page(6)"> Sites da KFA</div>
-            <div class="category2" onclick="toggle_page(7)"> Blogs e Outros Sites</div>
-            <div class="category2" onclick="toggle_page(8)"> Canais do Youtube</div>
-            <div class="category2" onclick="toggle_page(9)"> Sites de Turismo</div>
-        </div>
-
-        <div class="revistas" id="sites">
-            <div class="category2" onclick="toggle_page(10)"> Jornal THE PYONGANG TIMES</div>
-            <div class="category2" onclick="toggle_page(11)"> Pictorial RPD-COREIA</div>
-            <div class="category2" onclick="toggle_page(12)"> Revista COREIA HOJE</div>
-            <div class="category2" onclick="toggle_page(13)"> Revista MONTE KUMSU</div>
-            <div class="category2" onclick="toggle_page(14)"> Revista COMÉRCIO EXTERIOR</div>
-        </div>
-
-        <div id="sites" class="sitesOficial" ></div>
-        <div id="sites" class="sitesKfa" ></div>
-        <div id="sites" class="sitesBlogs" ></div>
-        <div id="sites" class="sitesYoutube" ></div>
-        <div id="sites" class="sitesTurismo" ></div>
-        <div id="sites" class="revistasTimes" ></div>
-        <div id="sites" class="revistasCoreia" ></div>
-        <div id="sites" class="revistasHoje" ></div>
-        <div id="sites" class="revistasKumsu" ></div>
-        <div id="sites" class="revistasComercio" ></div>
     </div>
 
     <script src="js/sites/turismo.js"></script>
@@ -90,6 +95,7 @@
     <script src="js/revistas/kumsu.js"></script>
     <script src="js/revistas/comercio.js"></script>
     <script src="js/home/image.js"></script>
+    <script src="js/home/video.js"></script>
     <script src="js/index.js"></script>
 
 </body>

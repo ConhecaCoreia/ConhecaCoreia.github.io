@@ -1,20 +1,20 @@
 
-function next() {
+function nextimage() {
     if (N === images.length - 1){
         N = 0
     }else{
         N++;
     }
-    document.getElementsByClassName("home-image")[0].src = images[N];
+    document.getElementsByClassName("home-image-src")[0].src = images[N];
 }
 
-function previous() {
+function previousimage() {
     if (N < 1){
         N = images.length - 1
     }else{
         N--;
     }
-    document.getElementsByClassName("home-image")[0].src = images[N];
+    document.getElementsByClassName("home-image-src")[0].src = images[N];
 }
 
 var images = []
