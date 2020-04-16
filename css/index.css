@@ -3,16 +3,15 @@
 }
 
 html, body {
-    height: 100%;
-    width: 100%;
     padding: 0;
     margin: 0;
 }
 
 body {
+    height: 100%;
     display: grid;
-    grid-template-columns: auto;
-    grid-template-rows: 60px 60px auto;
+    grid-template-columns: 1fr;
+    grid-template-rows: 60px 80px 1fr;
     grid-template-areas: 
     "title"
     "menu"
@@ -21,7 +20,7 @@ body {
 
 @media screen and (max-width: 800px) {
     body {
-        grid-template-rows: 40px 90px auto;
+        grid-template-rows: 40px 100px 1fr;
     }
 }
 
