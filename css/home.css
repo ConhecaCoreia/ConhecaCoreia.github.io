@@ -8,6 +8,7 @@
 }
 
 .home-image {
+    flex-shrink: 1;
     width: 100%;
     display: flex;
     align-items: flex-start;
@@ -26,6 +27,10 @@
 
 .home-image-src {
     border-radius: 5px;
+    width: 100%;
+}
+
+.home-image-href{
     width: 80%;
 }
 
@@ -61,6 +66,10 @@
 
 .post-content {
     text-align: justify;
+}
+
+.home-image-href{
+    flex-shrink: 1;
 }
 
 @media screen and (max-width: 800px) {

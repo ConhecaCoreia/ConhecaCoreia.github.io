@@ -5,6 +5,8 @@ function nextimage() {
     }else{
         N++;
     }
+    
+    document.getElementsByClassName("home-image-href")[0].href = images[N];
     document.getElementsByClassName("home-image-src")[0].src = images[N];
 }
 
@@ -14,6 +16,7 @@ function previousimage() {
     }else{
         N--;
     }
+    document.getElementsByClassName("home-image-href")[0].href = images[N];
     document.getElementsByClassName("home-image-src")[0].src = images[N];
 }
 
