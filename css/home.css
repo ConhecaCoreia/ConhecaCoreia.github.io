@@ -22,3 +22,10 @@
 .home img {
     width: 100%;
 }
+
+@media screen and (max-width: 800px) {
+    .home iframe {
+        top: 250px;
+        left: 10%;
+    }
+}
