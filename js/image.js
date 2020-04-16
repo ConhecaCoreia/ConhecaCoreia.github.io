@@ -5,7 +5,7 @@ function next() {
     }else{
         N++;
     }
-    document.getElementsByClassName("home")[0].style.backgroundImage = `url(${images[N]})`;
+    document.getElementsByClassName("home-image")[0].src = images[N];
 }
 
 function previous() {
@@ -14,7 +14,7 @@ function previous() {
     }else{
         N--;
     }
-    document.getElementsByClassName("home")[0].style.backgroundImage = `url(${images[N]})`;
+    document.getElementsByClassName("home-image")[0].src = images[N];
 }
 
 var images = []
