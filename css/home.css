@@ -16,12 +16,12 @@
     margin-top: 30px;
 }
 
-.home i {
+.home .icone {
     font-size: 1.5rem;
     margin-top: 10px;
 }
 
-.home i:hover {
+.home .icone:hover {
     cursor: pointer;
 }
 
