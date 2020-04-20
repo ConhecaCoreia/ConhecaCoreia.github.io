@@ -22,5 +22,5 @@ var N = 0;
 
 var images = []
 for (let i = 0; i <= 10; i++) {
-    images.push(`./../images/home/${i}.jpg`)
+    images.push(`./../images/home/0/${i}.jpg`)
 }
