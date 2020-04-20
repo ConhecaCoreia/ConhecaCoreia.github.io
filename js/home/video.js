@@ -16,7 +16,6 @@ function previousvideo() {
     document.getElementsByClassName("home-video-src")[0].src = videos[N2];
 }
 
-
 var N2 = 0;
 
 var videos = [
