@@ -1,0 +1,1 @@
+# Pasta com fotos do Revelion de 2020 de Pyongyang
