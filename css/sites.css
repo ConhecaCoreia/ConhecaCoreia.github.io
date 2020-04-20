@@ -98,3 +98,9 @@
     cursor: pointer;
     background-color: rgba(0,0,0, 0.1);
 }
+
+@media screen and (max-width: 800px) {
+    #sites {
+        justify-content: flex-start;
+    }
+}
