@@ -1,4 +1,4 @@
-function load_sites(class_name, variavel_sites) {
+function load_sites(class_name, variavel_sites, hideAndShow = true) {
     sites = document.querySelector(class_name)
     var site_container = null;
     var site_container_name = null;
@@ -15,7 +15,8 @@ function load_sites(class_name, variavel_sites) {
             category.className = 'category'
             site_container_name = e + page_name
             category.appendChild(document.createTextNode(e))
-            category.onclick = function (ev){
+            
+            if (hideAndShow) category.onclick = function (ev){
                 let status = document.getElementById(e + page_name).style.display
                 if (status == "none"){
                     status = "flex"
@@ -58,7 +59,7 @@ function load_sites(class_name, variavel_sites) {
             site.appendChild(title)
             site.appendChild(container)
             site_container.appendChild(site)
-            site_container.style.display = "none"
+            if (hideAndShow) site_container.style.display = "none"
         }
     })
     sites.appendChild(site_container);
@@ -66,7 +67,7 @@ function load_sites(class_name, variavel_sites) {
 
 function toggle_page(valor) {
     const divs = ['home', 'sites', 'revistas', 'about', 'sitesOficial',
-        'sitesKfa', 'sitesBlogs', 'sitesYoutube', 'sitesTurismo',
+        'sitesSobre', 'sitesTurismo',
         'revistasTimes', 'revistasCoreia', 'revistasHoje',
         'revistasKumsu', 'revistasComercio'
     ]
@@ -81,7 +82,7 @@ function toggle_page(valor) {
 
 function load_from_url(path = null) {
     const divs = ['home', 'sites', 'revistas', 'about', 'sitesOficial',
-        'sitesKfa', 'sitesBlogs', 'sitesYoutube', 'sitesTurismo',
+        'sitesSobre', 'sitesTurismo',
         'revistasTimes', 'revistasCoreia', 'revistasHoje',
         'revistasKumsu', 'revistasComercio'
     ]
@@ -110,10 +111,10 @@ window.onpopstate = function (event) {
 }
 
 load_sites(".sitesOficial", oficial)
-load_sites(".sitesKfa", kfa)
-load_sites(".sitesBlogs", blogs)
-load_sites(".sitesYoutube", youtube)
-load_sites(".sitesTurismo", turismo)
+load_sites(".sitesSobre", kfa)
+load_sites(".sitesSobre", blogs)
+load_sites(".sitesSobre", youtube)
+load_sites(".sitesTurismo", turismo, false)
 load_sites(".revistasTimes", times)
 load_sites(".revistasCoreia", coreia)
 load_sites(".revistasHoje", hoje)
