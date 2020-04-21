@@ -13,12 +13,12 @@ var times = [
         "figura": "bandeira.png",
         "texto": ""
     },
-    /*{
+    {
         "nome": "The Pyongyang Times - 14° Semana de 2020",
         "link": "https://knowkorea.github.io/PDF/TIMES-2020-14.pdf",
         "figura": "bandeira.png",
         "texto": ""
-    },*/
+    },
     {
         "nome": "The Pyongyang Times - 13° Semana de 2020",
         "link": "https://knowkorea.github.io/PDF/TIMES-2020-13.pdf",
