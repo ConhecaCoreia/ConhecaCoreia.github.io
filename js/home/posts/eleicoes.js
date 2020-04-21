@@ -2,7 +2,7 @@ var eleicoes = {
     "nome": "eleições",
     "titulo": "Eleições na RPD da Coreia",
     "link": "https://cepsongunbr.wordpress.com/2019/03/09/entenda-como-funcionam-as-eleicoes-na-coreia-do-norte/",
-    "qtdImg": 0,
+    "qtdImg": 12,
     "texto": `
     As eleições da República Popular Democrática da Coreia são orientadas pela Constituição Socialista de 1972 e são a máxima expressão do poder popular de seus cidadãos.
     <br>
