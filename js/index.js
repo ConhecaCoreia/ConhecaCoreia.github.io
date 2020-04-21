@@ -111,9 +111,7 @@ window.onpopstate = function (event) {
 }
 
 load_sites(".sitesOficial", oficial)
-load_sites(".sitesSobre", kfa)
-load_sites(".sitesSobre", blogs)
-load_sites(".sitesSobre", youtube)
+load_sites(".sitesSobre", sobre)
 load_sites(".sitesTurismo", turismo, false)
 load_sites(".revistasTimes", times)
 load_sites(".revistasCoreia", coreia)
