@@ -76,6 +76,12 @@ var oficial =
         "texto": "Site da Universidade de Tecnologia Kim Chaek."
     },
     {
+        "nome": "Universidade de Ciência e Tecnologia de Pyongyang - PUST",
+        "link": "http://pust.co/",
+        "figura": "bandeira.png",
+        "texto": "Site da PUST, uma universidade privada sem fins lucrativos financiada pela comunidade internacional."
+    },
+    {
         "nome": "Associação Coreana de Cientistas Sociais",
         "link": "http://kass.org.kp",
         "figura": "bandeira.png",
