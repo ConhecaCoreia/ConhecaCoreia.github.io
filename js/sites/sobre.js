@@ -1,30 +1,5 @@
 var sobre =
 [
-    'Outros sites da RPD da Coreia',
-    {
-        "nome": "CEPS - Centro de Estudos da Politica Songun",
-        "link": "https://cepsongunbr.wordpress.com",
-        "figura": "bandeira.png",
-        "texto": ""
-    },
-    {
-        "nome": "A Voz do Povo de 1945",
-        "link": "https://avozdopovode1945.blogspot.com",
-        "figura": "bandeira.png",
-        "texto": ""
-    },
-    {
-        "nome": "Solidariedade à Coreia Popular",
-        "link": "https://solidariedadecoreiapopular.blogspot.com",
-        "figura": "bandeira.png",
-        "texto": ""
-    },
-    {
-        "nome": "República Popular Democrática da Coreia",
-        "link": "https://republicademocraticapopulardacoreia.blogspot.com",
-        "figura": "bandeira.png",
-        "texto": ""
-    },
     'Sites das associações de amizade com a Coreia (KFA)',
     {
         "nome": "KFA Mundo",
@@ -104,9 +79,9 @@ var sobre =
         "figura": "bandeira.png",
         "texto": ""
     },
-    'Canais do YouTube a respeito da RPD da Coreia',
+    'Canais do YouTube',
     {
-        "nome": "CEPS",
+        "nome": "CEPS-BR | Centro de Estudos da Política Songun",
         "link": "https://youtube.com/channel/UC001pdZ7vaiksSDtyvlgmMg",
         "figura": "bandeira.png",
         "texto": ""
@@ -366,6 +341,128 @@ var sobre =
     {
         "nome": "SONGUN007",
         "link": "https://youtube.com/channel/UC1lDi2f_xeZRL28PKLl-nSw",
+        "figura": "bandeira.png",
+        "texto": ""
+    },
+    'Blogs',
+    {
+        "nome": "CEPS - Centro de Estudos da Politica Songun",
+        "link": "https://cepsongunbr.wordpress.com",
+        "figura": "bandeira.png",
+        "texto": ""
+    },
+    {
+        "nome": "A Voz do Povo de 1945",
+        "link": "https://avozdopovode1945.blogspot.com",
+        "figura": "bandeira.png",
+        "texto": ""
+    },
+    {
+        "nome": "Solidariedade à Coreia Popular",
+        "link": "https://solidariedadecoreiapopular.blogspot.com",
+        "figura": "bandeira.png",
+        "texto": ""
+    },
+    {
+        "nome": "República Popular Democrática da Coreia",
+        "link": "https://republicademocraticapopulardacoreia.blogspot.com",
+        "figura": "bandeira.png",
+        "texto": ""
+    },
+    'Paginas do Facebook',
+    {
+        "nome": "KFA - Brasil",
+        "link": "https://www.facebook.com/KFA.Brasil",
+        "figura": "bandeira.png",
+        "texto": ""
+    },
+    {
+        "nome": "CEPS-BR | Centro de Estudos da Política Songun",
+        "link": "https://www.facebook.com/CEPSBR",
+        "figura": "bandeira.png",
+        "texto": ""
+    },
+    {
+        "nome": "O Outro Lado da Coreia do Norte",
+        "link": "https://www.facebook.com/OOutroLadodaCoreiadoNorte",
+        "figura": "bandeira.png",
+        "texto": ""
+    },
+    {
+        "nome": "Korean People Army - Special Operation Force",
+        "link": "https://www.facebook.com/KPASpecialOperationForce",
+        "figura": "bandeira.png",
+        "texto": ""
+    },
+    {
+        "nome": "Explore DPRK",
+        "link": "https://www.facebook.com/ExploreDPRK",
+        "figura": "bandeira.png",
+        "texto": ""
+    },
+    {
+        "nome": "DPRK-360",
+        "link": "https://www.facebook.com/dprk360",
+        "figura": "bandeira.png",
+        "texto": ""
+    },
+    {
+        "nome": "Coreia do Norte em Foco",
+        "link": "https://www.facebook.com/coreiadonorteemfoco",
+        "figura": "bandeira.png",
+        "texto": ""
+    },
+    {
+        "nome": "Solidariedade a Coreia Popular",
+        "link": "https://www.facebook.com/SolidariedadeACoreiaPopular",
+        "figura": "bandeira.png",
+        "texto": ""
+    },
+    {
+        "nome": "Coreia do Norte da Depressao",
+        "link": "https://www.facebook.com/pg/CoreiaDoNorteDaDepressao",
+        "figura": "bandeira.png",
+        "texto": ""
+    },
+    {
+        "nome": "Frente de Apoio a Coreia Popular",
+        "link": "https://www.facebook.com/FrenteApoioCoreia",
+        "figura": "bandeira.png",
+        "texto": ""
+    },
+    {
+        "nome": "North Korea Videos - StimmeKoreas",
+        "link": "https://www.facebook.com/StimmeKoreas",
+        "figura": "bandeira.png",
+        "texto": ""
+    },
+    {
+        "nome": "North Korea Girls",
+        "link": "https://www.facebook.com/NorthKoreaGirls",
+        "figura": "bandeira.png",
+        "texto": ""
+    },
+    {
+        "nome": "Cycling in the DPRK",
+        "link": "https://www.facebook.com/Cycling-in-the-DPRK-153171214773493",
+        "figura": "bandeira.png",
+        "texto": ""
+    },
+    {
+        "nome": "Retro DPRK North Korea",
+        "link": "https://www.facebook.com/RetroDprk",
+        "figura": "bandeira.png",
+        "texto": ""
+    },
+    {
+        "nome": "DPRK North Korea Connection",
+        "link": "https://www.facebook.com/pg/DPRK.NorthKoreaConnection",
+        "figura": "bandeira.png",
+        "texto": ""
+    },
+    {
+        "nome": "DPRK Olympic Team",
+        "link": "https://www.facebook.com/DPRKOlympicTeam",
         "figura": "bandeira.png",
         "texto": ""
     }
