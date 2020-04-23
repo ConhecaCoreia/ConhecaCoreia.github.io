@@ -72,10 +72,28 @@
     flex-shrink: 1;
 }
 
+.post-image-container{
+    display: flex;
+    justify-content: space-between;
+}
+
+.post-image-href {
+    flex-shrink: 1;
+    height: 250px;
+}
+
+.post-image{
+    height: 100%;
+}
+
 @media screen and (max-width: 800px) {
 
     .home-image-href {
         width: 70%;
+    }
+
+    .post-image-href {
+        height: 130px;
     }
 
     .home-video-src {

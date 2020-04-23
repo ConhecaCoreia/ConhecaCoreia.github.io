@@ -1,5 +1,5 @@
 var eleicoes = {
-    "nome": "eleições",
+    "nome": "eleicoes",
     "titulo": "Eleições na RPD da Coreia",
     "link": "https://cepsongunbr.wordpress.com/2019/03/09/entenda-como-funcionam-as-eleicoes-na-coreia-do-norte/",
     "qtdImg": 12,

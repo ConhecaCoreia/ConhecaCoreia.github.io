@@ -2,7 +2,7 @@ var mulher = {
     "nome": "mulher",
     "titulo": "Direitos da mulher na RPD da Coreia",
     "link": "http://avozdopovode1945.blogspot.com/2018/04/lei-de-igualdade-de-direitos-do-homem-e.html",
-    "qtdImg": 0,
+    "qtdImg": 52,
     'texto': `
     Em 30 de julho 1946 era promulgada a ‘Lei de igualdade de direitos do homem e da mulher’ da Coreia Popular! 
     <br>

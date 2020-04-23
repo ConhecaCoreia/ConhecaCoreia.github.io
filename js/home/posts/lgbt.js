@@ -2,7 +2,7 @@ var lgbt = {
     "nome": "lgbt",
     "titulo": "Questão LGBT na Coreia Popular",
     "link": "https://www.facebook.com/OOutroLadodaCoreiadoNorte/photos/a.940537479353525/2983693268371259",
-    "qtdImg": 0,
+    "qtdImg": 3,
     "texto": `
     Não há direitos gays na Coreia Popular ao mesmo tempo que não há perseguição! Os direitos gays são necessidades no ocidente pois eles são perseguidos. As pessoas passaram a se identificar como gays quando houve a necessidade de se unir contra uma opressão comum que sofriam, devido a relação sexual entre pessoas do mesmo gênero. 
     <br>
