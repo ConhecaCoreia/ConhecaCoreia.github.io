@@ -1,4 +1,5 @@
 var posts = [
+    corona,
     mulher,
     lgbt,
     eleicoes
