@@ -2,7 +2,7 @@ var corona = {
     "nome": "corona",
     "titulo": "Porque a Coreia Popular não tem NENHUM caso de COVID-19?",
     "link": "https://www.facebook.com/KFA.Brasil/posts/2868542033229300",
-    "qtdImg": 60,
+    "qtdImg": 66,
     "texto": `
     A Coreia Popular não tem nenhum caso de corona virus, mesmo fazendo fronteira com a China, por causa das rapidas medidas que o Estado e seu Sistema Público de Saúde tomaram com o objetivo de fazer a profilaxia e prevenção contra a pandemia.
     <br>
