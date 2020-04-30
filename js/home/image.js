@@ -50,14 +50,7 @@ var qntd   = [36,15,11,48]
 
 for (let i = 0; i < 4; i++) {
     for (let j = 0; j <= qntd[i]; j++) {
-        if (i == 2 && (j == 2 || j == 8 || j == 10) )
-        {
-            images[i].push(`./../images/home/${i}/${j}.png`)
-        }
-        else {
-            images[i].push(`./../images/home/${i}/${j}.jpg`)
-        }
-        
+        images[i].push(`./../images/home/${i}/${j}.jpg`)
     }
 }
 
