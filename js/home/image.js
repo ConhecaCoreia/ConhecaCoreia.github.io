@@ -45,8 +45,8 @@ var N = 0;
 var Nfolder = 0;
 
 
-var images = [[],[],[]]
-var qntd   = [10,15,11]
+var images = [[],[],[],[]]
+var qntd   = [10,15,11,48]
 
 for (let i = 0; i < 3; i++) {
     for (let j = 0; j <= qntd[i]; j++) {
