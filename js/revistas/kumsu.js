@@ -43,13 +43,13 @@ var kumsu = [
         "link": "https://knowkorea.github.io/PDF/KUMSU-2020-6.pdf",
         "figura": "bandeira.png",
         "texto": ""
-    },
+    },*/
     {
         "nome": "Monte KUNSU - Maio de 2020",
         "link": "https://knowkorea.github.io/PDF/KUMSU-2020-5.pdf",
         "figura": "bandeira.png",
         "texto": ""
-    },*/
+    },
     {
         "nome": "Monte KUNSU - Abril de 2020",
         "link": "https://knowkorea.github.io/PDF/KUMSU-2020-4.pdf",
