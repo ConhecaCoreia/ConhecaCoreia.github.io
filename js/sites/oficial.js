@@ -275,6 +275,12 @@ var oficial =
         "texto": ""
     },
     {
+        "nome": "Ministerio da Saúde Pública da Coreia",
+        "link": "http://www.moph.gov.kp/en/",
+        "figura": "bandeira.png",
+        "texto": ""
+    },
+    {
         "nome": "Portal RPDC ",
         "link": "http://dprkportal.kp",
         "figura": "bandeira.png",
