@@ -37,13 +37,13 @@ var hoje = [
         "link": "https://knowkorea.github.io/PDF/TODAY-2020-7.pdf",
         "figura": "bandeira.png",
         "texto": ""
-    },
+    },*/
     {
         "nome": "COREIA HOJE - Junho de 2020",
         "link": "https://knowkorea.github.io/PDF/TODAY-2020-6.pdf",
         "figura": "bandeira.png",
         "texto": ""
-    },*/
+    },
     {
         "nome": "COREIA HOJE - Maio de 2020",
         "link": "https://knowkorea.github.io/PDF/TODAY-2020-5.pdf",
