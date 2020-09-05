@@ -29,5 +29,10 @@ var videos = [
     "https://www.youtube.com/embed/2BO83Ig-E8E",
     "https://www.youtube.com/embed/ohZqZCmRMjo",
     "https://www.youtube.com/embed/GUgeEBWHdCc",
-    "https://www.youtube.com/embed/Zc1WN6RkdjQ"
+    "https://www.youtube.com/embed/Zc1WN6RkdjQ",
+    "https://www.youtube.com/embed/byIVvNLa-m4",
+    "https://www.youtube.com/embed/gouB_tWyXmM",
+    "https://www.youtube.com/embed/2cq5GREHils",
+    "https://www.youtube.com/embed/C-STbWOwpvQ",
+    "https://www.youtube.com/embed/DCpkfXKRXgw"
 ]
