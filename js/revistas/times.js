@@ -2,6 +2,72 @@ var times = [
     'Lista de edições do jornal semanal: "THE PYONGYANG TIMES".',
     '2020',
     {
+        "nome": "The Pyongyang Times - 35° Semana de 2020",
+        "link": "https://knowkorea.github.io/PDF/TIMES-2020-35.pdf",
+        "figura": "bandeira.png",
+        "texto": ""
+    },
+    {
+        "nome": "The Pyongyang Times - 34° Semana de 2020",
+        "link": "https://knowkorea.github.io/PDF/TIMES-2020-34.pdf",
+        "figura": "bandeira.png",
+        "texto": ""
+    },
+    {
+        "nome": "The Pyongyang Times - 33° Semana de 2020",
+        "link": "https://knowkorea.github.io/PDF/TIMES-2020-33.pdf",
+        "figura": "bandeira.png",
+        "texto": ""
+    },
+    {
+        "nome": "The Pyongyang Times - 32° Semana de 2020",
+        "link": "https://knowkorea.github.io/PDF/TIMES-2020-32.pdf",
+        "figura": "bandeira.png",
+        "texto": ""
+    },
+    {
+        "nome": "The Pyongyang Times - 31° Semana de 2020",
+        "link": "https://knowkorea.github.io/PDF/TIMES-2020-31.pdf",
+        "figura": "bandeira.png",
+        "texto": ""
+    },
+    {
+        "nome": "The Pyongyang Times - 30° Semana de 2020",
+        "link": "https://knowkorea.github.io/PDF/TIMES-2020-30.pdf",
+        "figura": "bandeira.png",
+        "texto": ""
+    },
+    {
+        "nome": "The Pyongyang Times - 29° Semana de 2020",
+        "link": "https://knowkorea.github.io/PDF/TIMES-2020-29.pdf",
+        "figura": "bandeira.png",
+        "texto": ""
+    },
+    {
+        "nome": "The Pyongyang Times - 28° Semana de 2020",
+        "link": "https://knowkorea.github.io/PDF/TIMES-2020-28.pdf",
+        "figura": "bandeira.png",
+        "texto": ""
+    },
+    {
+        "nome": "The Pyongyang Times - 27° Semana de 2020",
+        "link": "https://knowkorea.github.io/PDF/TIMES-2020-27.pdf",
+        "figura": "bandeira.png",
+        "texto": ""
+    },
+    {
+        "nome": "The Pyongyang Times - 26° Semana de 2020",
+        "link": "https://knowkorea.github.io/PDF/TIMES-2020-26.pdf",
+        "figura": "bandeira.png",
+        "texto": ""
+    },
+    {
+        "nome": "The Pyongyang Times - 25° Semana de 2020",
+        "link": "https://knowkorea.github.io/PDF/TIMES-2020-25.pdf",
+        "figura": "bandeira.png",
+        "texto": ""
+    },
+    {
         "nome": "The Pyongyang Times - 24° Semana de 2020",
         "link": "https://knowkorea.github.io/PDF/TIMES-2020-24.pdf",
         "figura": "bandeira.png",

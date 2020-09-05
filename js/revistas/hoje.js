@@ -25,7 +25,7 @@ var hoje = [
         "link": "https://knowkorea.github.io/PDF/TODAY-2020-9.pdf",
         "figura": "bandeira.png",
         "texto": ""
-    },
+    },*/
     {
         "nome": "COREIA HOJE - Agosto de 2020",
         "link": "https://knowkorea.github.io/PDF/TODAY-2020-8.pdf",
@@ -37,7 +37,7 @@ var hoje = [
         "link": "https://knowkorea.github.io/PDF/TODAY-2020-7.pdf",
         "figura": "bandeira.png",
         "texto": ""
-    },*/
+    },
     {
         "nome": "COREIA HOJE - Junho de 2020",
         "link": "https://knowkorea.github.io/PDF/TODAY-2020-6.pdf",

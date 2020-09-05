@@ -7,13 +7,13 @@ var comercio =
         "link": "https://knowkorea.github.io/PDF/TRADE-2020-4.pdf",
         "figura": "bandeira.png",
         "texto": ""
-    },
+    },*/
     {
         "nome": "Comercio Exterior - 3° Trimestre de 2020",
         "link": "https://knowkorea.github.io/PDF/TRADE-2020-3.pdf",
         "figura": "bandeira.png",
         "texto": ""
-    },
+    },/*
     {
         "nome": "Comercio Exterior - 2° Trimestre de 2020",
         "link": "https://knowkorea.github.io/PDF/TRADE-2020-2.pdf",
