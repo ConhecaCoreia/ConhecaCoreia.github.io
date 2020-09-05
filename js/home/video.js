@@ -22,7 +22,6 @@ var videos = [
     "https://www.youtube.com/embed/gw2x8ZXj6VA",
     "https://www.youtube.com/embed/PjVJ4FqaowA",
     "https://www.youtube.com/embed/CKRidQJQLrs",
-    "https://www.youtube.com/embed/EfDemEA85bQ",
     "https://www.youtube.com/embed/nSd48emp0lI",
     "https://www.youtube.com/embed/H38i-CQSDsw",
     "https://www.youtube.com/embed/cARfym9TYzo",
