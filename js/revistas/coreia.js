@@ -25,13 +25,13 @@ var coreia = [
         "link": "https://knowkorea.github.io/PDF/KOREA-2020-10.pdf",
         "figura": "bandeira.png",
         "texto": ""
-    },
+    },*/
     {
         "nome": "RPD da COREIA - Setembro de 2020",
         "link": "https://knowkorea.github.io/PDF/KOREA-2020-9.pdf",
         "figura": "bandeira.png",
         "texto": ""
-    },*/
+    },
     {
         "nome": "RPD da COREIA - Agosto de 2020",
         "link": "https://knowkorea.github.io/PDF/KOREA-2020-8.pdf",
