@@ -2,6 +2,18 @@ var times = [
     'Lista de edições do jornal semanal: "THE PYONGYANG TIMES".',
     '2020',
     {
+        "nome": "The Pyongyang Times - 37° Semana de 2020",
+        "link": "https://knowkorea.github.io/PDF/TIMES-2020-37.pdf",
+        "figura": "bandeira.png",
+        "texto": ""
+    },
+    {
+        "nome": "The Pyongyang Times - 36° Semana de 2020",
+        "link": "https://knowkorea.github.io/PDF/TIMES-2020-36.pdf",
+        "figura": "bandeira.png",
+        "texto": ""
+    },
+    {
         "nome": "The Pyongyang Times - 35° Semana de 2020",
         "link": "https://knowkorea.github.io/PDF/TIMES-2020-35.pdf",
         "figura": "bandeira.png",
