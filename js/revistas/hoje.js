@@ -1,8 +1,7 @@
 var hoje = [
     'Lista de edições da revista mensal: "COREIA HOJE".',
     '2020',
-    /*Descomente quando fazerem o uploud de mais revistas*/
-    /*{
+    {
         "nome": "COREIA HOJE - Dezembro de 2020",
         "link": "https://knowkorea.github.io/PDF/TODAY-2020-12.pdf",
         "figura": "bandeira.png",
@@ -19,7 +18,7 @@ var hoje = [
         "link": "https://knowkorea.github.io/PDF/TODAY-2020-10.pdf",
         "figura": "bandeira.png",
         "texto": ""
-    },*/
+    },
     {
         "nome": "COREIA HOJE - Setembro de 2020",
         "link": "https://knowkorea.github.io/PDF/TODAY-2020-9.pdf",

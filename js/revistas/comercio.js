@@ -2,24 +2,30 @@ var comercio =
 [
     'Lista de edições da revista: "COMERCIO EXTERIOR DA RPDC".',
     '2020',
-    /*{
+    {
         "nome": "Comercio Exterior - 4° Trimestre de 2020",
         "link": "https://knowkorea.github.io/PDF/TRADE-2020-4.pdf",
         "figura": "bandeira.png",
         "texto": ""
-    },*/
+    },
     {
         "nome": "Comercio Exterior - 3° Trimestre de 2020",
         "link": "https://knowkorea.github.io/PDF/TRADE-2020-3.pdf",
         "figura": "bandeira.png",
         "texto": ""
-    },/*
+    },
     {
         "nome": "Comercio Exterior - 2° Trimestre de 2020",
-        "link": "https://knowkorea.github.io/PDF/TRADE-2020-2.pdf",
+        "link": "https://knowkorea.github.io/PDF/TRADE-2020-2-Spanish.pdf",
         "figura": "bandeira.png",
-        "texto": ""
-    },*/
+        "texto": "Versão em espanhol (não foi divulgado a versão em inglês)."
+    },
+    {
+        "nome": "Comercio Exterior - 2° Trimestre de 2020",
+        "link": "https://knowkorea.github.io/PDF/TRADE-2020-2-French.pdf",
+        "figura": "bandeira.png",
+        "texto": "Versão em espanhol (não foi divulgado a versão em inglês)."
+    },
     {
         "nome": "Comercio Exterior - 1° Trimestre de 2020",
         "link": "https://knowkorea.github.io/PDF/TRADE-2020-1.pdf",

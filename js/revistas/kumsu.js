@@ -1,8 +1,7 @@
 var kumsu = [
     'Lista de edições da revista mensal: "MONTE KUMSU".',
     '2020',
-    /*Descomente quando fazerem o uploud de mais revistas*/
-    /*{
+    {
         "nome": "Monte KUNSU - Dezembro de 2020",
         "link": "https://knowkorea.github.io/PDF/KUMSU-2020-12.pdf",
         "figura": "bandeira.png",
@@ -19,7 +18,7 @@ var kumsu = [
         "link": "https://knowkorea.github.io/PDF/KUMSU-2020-10.pdf",
         "figura": "bandeira.png",
         "texto": ""
-    },*/
+    },
     {
         "nome": "Monte KUNSU - Setembro de 2020",
         "link": "https://knowkorea.github.io/PDF/KUMSU-2020-9.pdf",

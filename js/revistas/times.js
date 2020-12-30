@@ -1,6 +1,102 @@
 var times = [
     'Lista de edições do jornal semanal: "THE PYONGYANG TIMES".',
     '2020',
+    /*{
+        "nome": "The Pyongyang Times - 53° Semana de 2020",
+        "link": "https://knowkorea.github.io/PDF/TIMES-2020-53.pdf",
+        "figura": "bandeira.png",
+        "texto": ""
+    },*/
+    {
+        "nome": "The Pyongyang Times - 52° Semana de 2020",
+        "link": "https://knowkorea.github.io/PDF/TIMES-2020-52.pdf",
+        "figura": "bandeira.png",
+        "texto": ""
+    },
+    {
+        "nome": "The Pyongyang Times - 51° Semana de 2020",
+        "link": "https://knowkorea.github.io/PDF/TIMES-2020-51.pdf",
+        "figura": "bandeira.png",
+        "texto": ""
+    },
+    {
+        "nome": "The Pyongyang Times - 50° Semana de 2020",
+        "link": "https://knowkorea.github.io/PDF/TIMES-2020-50.pdf",
+        "figura": "bandeira.png",
+        "texto": ""
+    },
+    {
+        "nome": "The Pyongyang Times - 49° Semana de 2020",
+        "link": "https://knowkorea.github.io/PDF/TIMES-2020-49.pdf",
+        "figura": "bandeira.png",
+        "texto": ""
+    },
+    {
+        "nome": "The Pyongyang Times - 48° Semana de 2020",
+        "link": "https://knowkorea.github.io/PDF/TIMES-2020-48.pdf",
+        "figura": "bandeira.png",
+        "texto": ""
+    },
+    {
+        "nome": "The Pyongyang Times - 47° Semana de 2020",
+        "link": "https://knowkorea.github.io/PDF/TIMES-2020-47.pdf",
+        "figura": "bandeira.png",
+        "texto": ""
+    },
+    {
+        "nome": "The Pyongyang Times - 46° Semana de 2020",
+        "link": "https://knowkorea.github.io/PDF/TIMES-2020-46.pdf",
+        "figura": "bandeira.png",
+        "texto": ""
+    },
+    {
+        "nome": "The Pyongyang Times - 45° Semana de 2020",
+        "link": "https://knowkorea.github.io/PDF/TIMES-2020-45.pdf",
+        "figura": "bandeira.png",
+        "texto": ""
+    },
+    {
+        "nome": "The Pyongyang Times - 44° Semana de 2020",
+        "link": "https://knowkorea.github.io/PDF/TIMES-2020-44.pdf",
+        "figura": "bandeira.png",
+        "texto": ""
+    },
+    {
+        "nome": "The Pyongyang Times - 43° Semana de 2020",
+        "link": "https://knowkorea.github.io/PDF/TIMES-2020-43.pdf",
+        "figura": "bandeira.png",
+        "texto": ""
+    },
+    {
+        "nome": "The Pyongyang Times - 42° Semana de 2020",
+        "link": "https://knowkorea.github.io/PDF/TIMES-2020-42.pdf",
+        "figura": "bandeira.png",
+        "texto": ""
+    },
+    {
+        "nome": "The Pyongyang Times - 41° Semana de 2020",
+        "link": "https://knowkorea.github.io/PDF/TIMES-2020-41.pdf",
+        "figura": "bandeira.png",
+        "texto": ""
+    },
+    {
+        "nome": "The Pyongyang Times - 40° Semana de 2020",
+        "link": "https://knowkorea.github.io/PDF/TIMES-2020-40.pdf",
+        "figura": "bandeira.png",
+        "texto": ""
+    },
+    {
+        "nome": "The Pyongyang Times - 39° Semana de 2020",
+        "link": "https://knowkorea.github.io/PDF/TIMES-2020-39.pdf",
+        "figura": "bandeira.png",
+        "texto": ""
+    },
+    {
+        "nome": "The Pyongyang Times - 38° Semana de 2020",
+        "link": "https://knowkorea.github.io/PDF/TIMES-2020-38.pdf",
+        "figura": "bandeira.png",
+        "texto": ""
+    },
     {
         "nome": "The Pyongyang Times - 37° Semana de 2020",
         "link": "https://knowkorea.github.io/PDF/TIMES-2020-37.pdf",

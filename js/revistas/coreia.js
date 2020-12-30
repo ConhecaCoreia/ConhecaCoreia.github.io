@@ -7,8 +7,7 @@ var coreia = [
         "figura": "bandeira.png",
         "texto": ""
     },
-    /*Descomente quando fazerem o uploud de mais revistas*/
-    /*{
+    {
         "nome": "RPD da COREIA - Dezembro de 2020",
         "link": "https://knowkorea.github.io/PDF/KOREA-2020-12.pdf",
         "figura": "bandeira.png",
@@ -25,7 +24,7 @@ var coreia = [
         "link": "https://knowkorea.github.io/PDF/KOREA-2020-10.pdf",
         "figura": "bandeira.png",
         "texto": ""
-    },*/
+    },
     {
         "nome": "RPD da COREIA - Setembro de 2020",
         "link": "https://knowkorea.github.io/PDF/KOREA-2020-9.pdf",
