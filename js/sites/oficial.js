@@ -285,5 +285,11 @@ var oficial =
         "link": "http://dprkportal.kp",
         "figura": "bandeira.png",
         "texto": "Portal oficial de sites da RPD-Coreia"
+    },
+    {
+        "nome": "Corporação Estampa da Coreia",
+        "link": "http://korstamp.com.kp",
+        "figura": "bandeira.png",
+        "texto": "A Corporação Estampa da Coreia (Korea Stamp Corporation) é único estabelecimento emissor de títulos postais na RPDC, tem lidado com design, emissão, coleta, pesquisa e distribuição de selos, títulos postais, impressos e mídia relacionados à filatelia e fotos 3D."
     }
 ]
